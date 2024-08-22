@@ -1,2 +1,2 @@
-# terteruu.github.io
-To creat a template for personal academic websites
+# Hello
+Here is a primitive personal page. It is still being improved.
