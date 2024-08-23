@@ -11,7 +11,8 @@ I am an experimental particle physicist. My main research interests include the 
 
 If you are interested in any aspect of me, you can feel free to contact me. please email me at *yejingqiang@cuhk.edu.cn*.
 
-<br></br>
+<br>
+
 ## Academic Background
 
 - **2024 - present:** Assistant Professor, CUHK-Shenzhen
@@ -20,7 +21,8 @@ If you are interested in any aspect of me, you can feel free to contact me. plea
 - **2010 - 2014:** Bsc, Zhejiang University
 
 ---
-<br></br>
+<br>
+
 ## Research Interests
 
 - Dark matter
@@ -30,7 +32,8 @@ If you are interested in any aspect of me, you can feel free to contact me. plea
 My current research focuses on experimental particle physics.
 
 ---
-<br></br>
+<br>
+
 ## News and Updates
 
 - **February 2024：** I joined the Chinese University of Hong Kong (Shenzhen) as an assistant professor. 🎉
