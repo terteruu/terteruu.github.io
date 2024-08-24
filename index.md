@@ -2,14 +2,14 @@
 layout: page
 ---
 
-# About Me
+# About the Group
 
 
-Here is **Jingqiang Ye (叶靖强)**.
+Here is **Ye Group** led by **Prof. Jingqiang Ye (叶靖强)**.
 
-I am an experimental particle physicist. My main research interests include the direct detection of dark matter, neutrinos, and axions using noble liquid detectors and the development of technologies for next-generation detectors. Our group is involved with the XENONnT dark matter experiment and RELICS reactor neutrino experiment, and I served as Analysis Coordinator for the XENONnT experiment from 2022 to 2023.
+Prof. Ye is an experimental particle physicist. His main research interests include the direct detection of dark matter, neutrinos, and axions using noble liquid detectors and the development of technologies for next-generation detectors. His group is involved with the XENONnT dark matter experiment and RELICS reactor neutrino experiment, and he served as Analysis Coordinator for the XENONnT experiment from 2022 to 2023.
 
-If you are interested in any aspect of me, you can feel free to contact me. please email me at *yejingqiang@cuhk.edu.cn*.
+If you are interested in any aspect of our group, you can feel free to contact Prof. Ye. please email at *yejingqiang@cuhk.edu.cn*.
 
 <br>
 
@@ -29,7 +29,7 @@ If you are interested in any aspect of me, you can feel free to contact me. plea
 - Neutrino
 
 <br>
-My current research focuses on experimental particle physics.
+Our group's current research focuses on experimental particle physics.
 
 ---
 <br>
