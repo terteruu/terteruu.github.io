@@ -37,16 +37,18 @@ owner:
 links:
   - title: About The Group
     url: /
-  - title: Teams
-    url: /teams/
+  - title: People
+    url: /people/
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Hobbies
+  #  url: /hobbies/
+  - title: Gallery
+    url: /gallery/
+  - title: Opening
+    url: /opening/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
