@@ -11,8 +11,10 @@ The full list of my publications can be found at [Google Scholar](https://schola
 [3] E. Aprile et al. (XENON Collaboration), Excess Electronic Recoil Events in XENON1T, Phys. Rev. D. 102, 072004 (2020). *<br>
 [4] E. Aprile et al. (XENON Collaboration), Observation of Two-neutrino Double Electron Capture in 124Xe with XENON1T, Nature 568, 532-535 (2019).<br>
 [5] E. Aprile et al. (XENON Collaboration), Light Dark Matter Search with Ionization Signals in XENON1T, Phys. Rev. Lett. 123, 251801 (2019).<br>
-<p>*Corresponding author</p>
-
+<p>*Corresponding author</p><br>
+Corresponding author<br>
+<br>
+<p>*Corresponding author</p><br>
 ---
 
 ## Conference Paper
