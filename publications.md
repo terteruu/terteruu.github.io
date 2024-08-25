@@ -19,7 +19,7 @@ The full list of my publications can be found at [Google Scholar](https://schola
 
 [5] E. Aprile et al. (XENON Collaboration), Light Dark Matter Search with Ionization Signals in XENON1T, Phys. Rev. Lett. 123, 251801 (2019).
 
-* Corresponding author
+<p>* Corresponding author</p>
 
 ---
 
