@@ -17,8 +17,8 @@ We have open positions for Ph.D. students and Postdocs.
 <br>
 
 - **Postdoc applicant:** please email the following items with a prefix of [CUHK-SZ Postdoc Application] in the title.
-    1. CV (with publication list)
-    2. Research Statement
+    - CV (with publication list)
+    - Research Statement
 
 <br>
 If you plan to formally apply for this position, please also include the following items.
