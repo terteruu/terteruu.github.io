@@ -5,3 +5,15 @@ title: Gallery
 ---
 
 ### WELCOME!
+
+<br>
+<br>
+<br>
+<br>
+
+**Some group photos**
+
+<br>
+<br>
+<br>
+<br>
