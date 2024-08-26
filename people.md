@@ -15,6 +15,7 @@ title: People
 - B.Sc. (Zhejiang University)<br>
 
 <b>Office Address: </b>RCxxx<br>
+<b>Email: </b>yejingqiang@cuhk.edu.cn<br>
 <b>Research: </b>Experimental particle physics, astroparticle physics<br>
 
 ---
@@ -22,19 +23,18 @@ title: People
 ## Team Members
 <b>Zhangjian Liang</b><br>
 Research Assistant<br>
+<b>Email: </b>zeki.liang@outlook.com<br>
 <br>
-
----
 
 <br>
 <b>Linzhang Tan</b><br>
-undergraduate student<br>
+Undergraduate Student<br>
 
 ---
 
 ## Former Members
-<b>Haowen Si</b>, undergraduate<br>
-<b>Tingyi He</b>, visiting student<br>
+<b>Haowen Si</b>, undergraduate.<br>
+<b>Tingyi He</b>, visiting student.<br>
 
 ---
 
