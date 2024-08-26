@@ -19,11 +19,28 @@ title: People
 
 ---
 
+## Team Members
+<b>Zhangjian Liang</b><br>
+Research Assistant<br>
+<br>
+
+---
+
+<br>
+<b>Linzhang Tan</b><br>
+undergraduate student<br>
+
+---
+
+## Former Members
+<b>Haowen Si</b>, undergraduate<br>
+<b>Tingyi He</b>, visiting student<br>
+
+---
+
 ## Team News
 
 ---
 
-## Team Members
 
----
 
