@@ -36,4 +36,4 @@ Our group's current research focuses on experimental particle physics.
 
 ## News and Updates
 
-- **February 2024：** I joined the Chinese University of Hong Kong (Shenzhen) as an assistant professor. 🎉
+- **February 2024：** Prof. Ye joined the Chinese University of Hong Kong (Shenzhen) as an assistant professor. 🎉
