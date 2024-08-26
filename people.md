@@ -10,7 +10,6 @@ title: People
 <b>Prof. Jingqiang Ye</b><br>
 <b>Title: </b>Assistant professor<br>
 <b>Education Background:</b><br>
-
 - Ph.D. (UC San Diego)<br>
 - B.Sc. (Zhejiang University)<br>
 
