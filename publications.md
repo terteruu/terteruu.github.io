@@ -11,7 +11,7 @@ title: Publications
 
 ## Academic Publications
 <p>
-The full list of my publications can be found at <b><i><a href='https://scholar.google.com/citations?user=Tmc18fYAAAAJ&hl=en'>Google Scholar</a></i></b>.<br>
+The full list of my publications can be found at <b><u><a href='https://scholar.google.com/citations?user=Tmc18fYAAAAJ&hl=en'>Google Scholar</a></u></b>.<br>
 <br>
 <b>Selected recent publications:</b><br>
 [1] E. Aprile et al. (XENON Collaboration), First Dark Matter Search with Nuclear Recoils from the XENONnT Experiment, Phys. Rev. Lett. 131, 041003 (2023).<br>
