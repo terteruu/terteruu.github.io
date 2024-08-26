@@ -9,7 +9,7 @@ title: Opening
 We have open positions for Ph.D. students and Postdocs. 
 <br>
 
-- **Ph.D. applicants:** please email the following items with a prefix of [CUHK-SZ PhD Application] in the title. You can also find useful information on the university website: https://sse-mphil-phd.cuhk.edu.cn/en/program/PHY.
+- **Ph.D. applicants:** please email the following items with a prefix of [CUHK-SZ PhD Application] in the title. You can also find useful information on the university website: [https://sse-mphil-phd.cuhk.edu.cn/en/program/PHY](https://sse-mphil-phd.cuhk.edu.cn/en/program/PHY).
     - Transcript
     - CV
     - Research Statement (if any)
