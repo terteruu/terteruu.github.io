@@ -14,7 +14,7 @@ title: Gallery
 <br>
 <br>
 <br>
-<b>Some group photos</b><br>
+<b>Some group photos and campus photos here.</b><br>
 <br>
 <b>To be uploaded</b><br>
 <br>
