@@ -14,11 +14,9 @@ title: Gallery
 <br>
 <br>
 <br>
-
-**Some group photos**<br>
+<b>Some group photos</b><br>
 <br>
-**To be uploaded**<br>
-
+<b>To be uploaded</b><br>
 <br>
 <br>
 <br>
