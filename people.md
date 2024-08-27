@@ -9,7 +9,7 @@ title: People
 <br>
 <b>Prof. Jingqiang Ye</b><br>
 School of Science and Engineering,<br>
-The Chinese University of Hong Kong, Shenzhen<br>
+the Chinese University of Hong Kong, Shenzhen<br>
 <b>Title: </b>Assistant professor<br>
 <b>Education Background:</b><br>
 - Ph.D. (UC San Diego)<br>
