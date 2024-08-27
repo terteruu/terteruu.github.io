@@ -5,7 +5,7 @@ title: People
 ---
 
 ## Principal Investigator:
-<img src="https://raw.githubusercontent.com/terteruu/terteruu.github.io/main/images/yejingqiang.jpg"  class="floatpic" width="70" height="70">
+<img src="https://terteruu.github.io/images/yejingqiang.jpg"  class="floatpic" width="70" height="70">
 <br>
 <b>Prof. Jingqiang Ye</b><br>
 School of Science and Engineering,<br>
