@@ -11,7 +11,6 @@ title: Project
 </style>
 
 ## XENONnT Dark Matter Experiment
-<br>
 <p>
 <img src="https://terteruu.github.io/images/logo/xenon-logo-2000px.png"  class="floatpic" width="50" height="50">
 <br>
@@ -26,7 +25,6 @@ The XENONnT experiment, located in Laboratori Nazionali del Gran Sasso (LNGS), I
 <br>
 
 ## RELICS Reactor Neutrino Experiment
-<br>
 <p>
 <img src="https://terteruu.github.io/images/logo/relics_logo.jpg"  class="floatpic" width="177" height="72">
 <br>
