@@ -6,7 +6,7 @@ layout: page
     text-align: justify;
   }
 </style>
-# About the Group
+# Ye Group
 
 <p>
 <img src="https://raw.githubusercontent.com/terteruu/terteruu.github.io/main/images/cuhk-logo-cut.png"  class="floatpic" width="96" height="80">
