@@ -15,8 +15,8 @@ title: Gallery
 <br>
 <br>
 
-**Some group photos**
-**To be uploaded**
+**Some group photos**<br>
+**To be uploaded**<br>
 
 <br>
 <br>
